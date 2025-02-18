@@ -1,0 +1,10 @@
+asyncio
+crawl4ai
+langchain
+langchain_groq
+langchain_huggingface
+langchain_community
+faiss-cpu
+python-dotenv
+orjson
+requests
